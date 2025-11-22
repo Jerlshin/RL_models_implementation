@@ -82,10 +82,3 @@ To run the Jupyter Notebooks (`.ipynb` files), you will need the following:
     * `matplotlib`
     * `jupyter` / `ipykernel`
     * `torch` or `tensorflow` (for Deep RL sections)
-
-```bash
-# Example command to activate your environment
-conda activate manim_env
-
-# Example command to launch Jupyter
-jupyter notebook

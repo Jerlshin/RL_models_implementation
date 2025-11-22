@@ -10,11 +10,11 @@ The contents are structured to follow a progressive learning path, starting with
 
 The core materials are organized into the following logical sections, mirroring the typical structure of an advanced RL curriculum:
 
-| Directory/File | Description | Status |
-| :--- | :--- | :--- |
-| `Documents/` | Contains foundational readings, notes, and PDF resources. | ✅ Committed |
-| `Fundamentals of Reinforcement Learning/` | Contains practical code (Jupyter Notebooks) for core algorithms. | ✅ Committed |
-| **README.md** | This document. | |
+| Directory/File | Description | 
+| :--- | :--- | 
+| `Documents/` | Contains foundational readings, notes, and PDF resources. | 
+| `Fundamentals of Reinforcement Learning/` | Contains practical code (Jupyter Notebooks) for core algorithms. | 
+
 
 ---
 
